@@ -8,7 +8,6 @@ import {
   LatestInvoicesSkeleton,
   RevenueChartSkeleton,
 } from '@/app/ui/skeletons';
-import { fetchCardData } from '../../lib/data';
 
 export default async function Page() {
   return (
